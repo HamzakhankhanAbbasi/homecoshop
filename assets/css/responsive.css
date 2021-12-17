@@ -1,0 +1,191 @@
+@media only screen and (max-width:1920px) {
+
+}
+@media only screen and (max-width:1540px) {
+
+}
+@media only screen and (max-width:1440px) {
+    .sticky {
+    width: 70% !important; 
+    }
+}
+@media only screen and (max-width:1280px) {
+    .sticky {
+        width: 85% !important;
+    }   
+    .int_sale_img4 img {
+        max-width: 235px;
+        min-height: 235px;
+        width: 100%;
+    }
+}
+@media only screen and (max-width:1040px) {
+}
+@media only screen and (max-width:1024px) {  
+    .reviews-text2 {
+        font-size: 18px !important;
+    }
+    .sec4-text12 {
+        text-align: center;
+    }
+    .int_sale_style4 {
+        padding: 0px 16px 47px 46px;
+    }
+    .int_sale_img4 img {
+        max-width: 215px;
+        min-height: 215px;
+        width: 100%;
+    } 
+}
+@media only screen and (max-width:991px) {
+    .reviews-text2 {
+        font-size: 16px !important;
+    }
+    .leftwrap-text1 {
+        font-size: 22px;
+    }
+    .leftwrap-text2 {
+        font-size: 18px;
+    }
+    .truck-text {
+        font-size: 25px;
+    }
+    .int_sale_style4 {
+        padding: 0px 16px 23px 22px;
+    }
+    .int_sale_img4 img {
+        max-width: 180px;
+        min-height: 180px;
+        width: 100%;
+    }
+    .int_sale_four h2 {
+        font-size: 22px !important;
+    }
+    .int_sale_four p {
+        color: #555555;
+        font-size: 16px !important;
+    }
+    .int_btn {
+        min-width: 110px !important;
+       
+    }
+    .sticky {
+        width: 95% !important;
+    }
+}
+@media only screen and (max-width:910px) {
+    .card-text {
+        font-size: 14px !important;
+        font-weight: 500;
+    }
+    .reviews-text1 {
+        font-size: 18px;
+    }
+    .reviews-text2 {
+        font-size: 14px !important;
+    }
+    .truck-text {
+        font-size: 22px;
+    }
+    .decorative-img img {
+        margin-top: 95px;
+    }
+    .int_sale_first_style4 .int_sale_img4 img {
+        margin-top: 102px;
+    }
+    .int_sale_four h2 {
+        font-size: 20px !important;
+    }
+    .int_sale_img4 img {
+        max-width: 160px;
+        min-height: 160px;
+        width: 100%;
+    }
+    .int_sale_style4 {
+        padding: 0px 16px 35px 12px;
+    }
+    .int_sale_four a.index4_btn {
+        min-width: 110px;
+        height: 35px;
+        line-height: 35px;
+    }
+    #tab-button li a {
+        padding: 17px 3px !important;
+    }
+    .add-btn {
+        width: 100px !important;
+    }
+}
+@media only screen and (max-width:800px) {}
+@media only screen and (max-width:767px) {
+    .sec4-image-3 img {
+        display: block;
+        margin: 0 auto;
+    }
+    .sticky {
+        position: relative !important;
+    }
+    #tab-button li a {
+        font-size: 14px !important;
+    }
+    #tab-button li a {
+        padding: 19px 1px !important;
+    }
+    .head-text1 {
+        font-size: 20px !important;
+    }
+    .gen-text-box {
+        margin-bottom: 10px;
+    }
+  
+}
+@media only screen and (max-width:575px) {    
+    .int_sale_four a.index4_btn {
+        min-width: 95px;
+        height: 35px;
+    }
+    .int_sale_first_style4 .int_sale_img4 img {
+        margin-top: 70px;
+    }
+    .decorative-img img {
+        margin-top: 75px;
+    }
+    ul#tab-button {
+        display: flex;
+        flex-direction: column;
+
+    }
+    #tab-button li {
+        width: 70% !important;
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width:385px) {
+    .leftwrap-text1 {
+        font-size: 20px;
+    }
+    .sec4-image-3 img {
+        display: block;
+        margin: 0 auto;
+    }
+    .int_sale_four p {
+        color: #555555;
+        font-size: 14px !important;
+    }
+    .int_sale_four h2 {
+        font-size: 18px !important;
+    }
+    .int_sale_img4 img {
+        max-width: 136px;
+        min-height: 136px;
+        width: 100%;
+    }
+    .index4_btn, .index4_btn:focus {
+        min-width: 95px !important;
+        font-size: 13px !important;
+    }
+    .int_sale_four h5 {
+        font-size: 14px;
+       
+    }
+}
